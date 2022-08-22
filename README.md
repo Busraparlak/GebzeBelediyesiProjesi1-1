@@ -8,7 +8,7 @@ HTML5,CSS3 ve JAVASCRİPT programlama dilleri kullanarak Gebze Belediyesine yapt
 ![image](https://user-images.githubusercontent.com/107241065/185898543-581e9254-3f6f-4404-8406-134c97f08705.png)
 
 ![Ekran görüntüsü 2022-08-22 113647](https://user-images.githubusercontent.com/107241065/185898878-668d4f38-1513-470b-b401-9440c15f5c2d.png)
-![Ekran görüntüsü 2022-08-22 113739](https://user-images.githubusercontent.com/107241065/185898885-48cb2be2-8c3c-4e86-9b14-199b2b558ea2.png)
+
 ![Ekran görüntüsü 2022-08-22 113825](https://user-images.githubusercontent.com/107241065/185898889-903d195b-e216-4a52-ad76-53705af36c77.png)
 ![Ekran görüntüsü 2022-08-22 114023](https://user-images.githubusercontent.com/107241065/185898892-d995d7ab-ec23-42c0-a1f0-7850f308d235.png)
 ![Ekran görüntüsü 2022-08-22 114052](https://user-images.githubusercontent.com/107241065/185898897-ac6be7d8-1ea1-489c-adc2-be0b34495f7a.png)
@@ -24,3 +24,5 @@ HTML5,CSS3 ve JAVASCRİPT programlama dilleri kullanarak Gebze Belediyesine yapt
 ![Ekran görüntüsü 2022-08-22 113207](https://user-images.githubusercontent.com/107241065/185898969-78a7a320-ab2b-4908-a1f6-277e92b1b54c.png)
 ![Ekran görüntüsü 2022-08-22 113311](https://user-images.githubusercontent.com/107241065/185898984-8bad221b-c3b9-4dfa-8991-b52cc26bf082.png)
 ![Ekran görüntüsü 2022-08-22 113527](https://user-images.githubusercontent.com/107241065/185899000-d4daec8e-d3c8-4778-ab56-6e73ac7bb209.png)
+
+![Ekran görüntüsü 2022-08-22 113739](https://user-images.githubusercontent.com/107241065/185898885-48cb2be2-8c3c-4e86-9b14-199b2b558ea2.png)
